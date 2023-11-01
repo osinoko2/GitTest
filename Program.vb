@@ -6,6 +6,6 @@ Module Program
         Console.WriteLine("2023/10/11")
         Console.WriteLine("マージしてください！")
         Console.WriteLine("マージします！")
-        Console.WriteLine("プルリクエストの送信")
+        Console.WriteLine("プルしてから作業します;;")
     End Sub
 End Module
