@@ -7,5 +7,6 @@ Module Program
         Console.WriteLine("マージしてください！")
         Console.WriteLine("マージします！")
         Console.WriteLine("プルしてから作業します;;")
+        Console.WriteLine("プルしてないよ")
     End Sub
 End Module
