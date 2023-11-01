@@ -5,5 +5,7 @@ Module Program
         Console.WriteLine("Hello GitHub!")
         Console.WriteLine("2023/10/11")
         Console.WriteLine("マージしてください！")
+        Console.WriteLine("マージします！")
+        Console.WriteLine("プルリクエストの送信")
     End Sub
 End Module
